@@ -1,0 +1,19 @@
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\bin\Debug\YazilimSinama_Odev02.exe.config
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\bin\Debug\YazilimSinama_Odev02.exe
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\bin\Debug\YazilimSinama_Odev02.pdb
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.csprojResolveAssemblyReference.cache
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.Form1.resources
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.Properties.Resources.resources
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.csproj.GenerateResource.Cache
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.exe
+c:\users\02483531\documents\visual studio 2015\Projects\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.pdb
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\bin\Debug\YazilimSinama_Odev02.exe.config
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\bin\Debug\YazilimSinama_Odev02.exe
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\bin\Debug\YazilimSinama_Odev02.pdb
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.Form1.resources
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.Properties.Resources.resources
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.exe
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.pdb
+C:\Users\ahmet\Desktop\YazilimSinama_Odev02_Caner_Ahmet\YazilimSinama_Odev02\YazilimSinama_Odev02\obj\Debug\YazilimSinama_Odev02.csprojAssemblyReference.cache
